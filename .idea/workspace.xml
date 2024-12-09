@@ -4,7 +4,116 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="549feb56-a4db-42f4-99cd-84952b0158ac" name="Changes" comment="Changes" />
+    <list default="true" id="549feb56-a4db-42f4-99cd-84952b0158ac" name="Changes" comment="Changes">
+      <change afterPath="$PROJECT_DIR$/.dockerignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/YoloV5_PyQt5-main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XGB_LDA_Classification_Code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/argoverse_hd.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/coco.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/coco128.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/hyp.finetune.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/hyp.scratch.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/scripts/get_argoverse_hd.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/scripts/get_coco.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/scripts/get_voc.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/voc.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/detect.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/detect_logical_XKY-Yufeng的MacBook Air.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/detect_logical_XKY.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/detect_logical_nyf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hubconf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lda_transform_stomach.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/share.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loading_spinner.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main_logic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/common.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/experimental.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/export.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/hub/anchors.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/hub/yolov3-spp.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/hub/yolov3-tiny.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/hub/yolov3.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/hub/yolov5-fpn.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/hub/yolov5-p2.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/hub/yolov5-p6.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/hub/yolov5-p7.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/hub/yolov5-panet.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/hub/yolov5l6.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/hub/yolov5m6.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/hub/yolov5s-transformer.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/hub/yolov5s6.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/hub/yolov5x6.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/yolo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/yolo_plate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/yolov5l.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/yolov5m.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/yolov5s.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/yolov5x.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new_20240415_Stomach_Tumour.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/predictions.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stomach_in_vivo_xgb_lda1_none.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tutorial.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/detect_ui.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/login_ui.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/ori_ui/detect_ui.ui" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/ori_ui/login_ui.ui" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/ori_ui/new_ui.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/ori_ui/new_ui.ui" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/ori_ui/registe_ui.ui" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/ori_ui/register_ui.ui" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/register_ui.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui_img/icon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userInfo.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/activations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/autoanchor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/aws/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/aws/mime.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/aws/resume.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/aws/userdata.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/datasets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/general.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/google_app_engine/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/google_app_engine/additional_requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/google_app_engine/app.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/google_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/id_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/loss.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/metrics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/plots.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/torch_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/wandb_logging/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/wandb_logging/log_dataset.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/wandb_logging/wandb_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weights/best.pt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weights/best567.pt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weights/best_group9.pt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weights/download_weights.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weights/exvivo.pt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weights/invivo.pt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weights/last_.pt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weights/most_advanced_model.pt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weights/yolov5m.pt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weights/yolov5s.pt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,11 +142,12 @@
     "Python.detect_logical.executor": "Run",
     "Python.detect_logical_XKY.executor": "Run",
     "Python.detect_logical_hahah.executor": "Run",
+    "Python.detect_logical_nyf (1).executor": "Run",
     "Python.detect_logical_nyf.executor": "Run",
     "Python.main_logic.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "new-branch",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "E:/Raine/IC/OneDrive - Imperial College London/IC/70006 Group Project/user interface/YoloV5_PyQt5-main",
     "node.js.detected.package.eslint": "true",
@@ -49,7 +159,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.detect_logical_nyf">
+  <component name="RunManager" selected="Python.detect_logical_nyf (1)">
     <configuration name="XGB_LDA_Classification_Code" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="YoloV5_PyQt5-main" />
       <option name="ENV_FILES" value="" />
@@ -119,7 +229,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="detect_logical_hahah" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="detect_logical_nyf (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="YoloV5_PyQt5-main" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -128,12 +238,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="SDK_NAME" value="pyqt5_py3.9" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Downloads/YoloV5_PyQt5-main" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/detect_logical_hahah.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Downloads/YoloV5_PyQt5-main/detect_logical_nyf.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -167,11 +278,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.detect_logical_nyf (1)" />
         <item itemvalue="Python.detect_logical_nyf" />
         <item itemvalue="Python.detect_logical_XKY" />
         <item itemvalue="Python.XGB_LDA_Classification_Code" />
         <item itemvalue="Python.detect_logical" />
-        <item itemvalue="Python.detect_logical_hahah" />
       </list>
     </recent_temporary>
   </component>
@@ -204,7 +315,7 @@
       <workItem from="1733148046994" duration="1419000" />
       <workItem from="1733260339730" duration="1484000" />
       <workItem from="1733340042405" duration="8156000" />
-      <workItem from="1733400233062" duration="17990000" />
+      <workItem from="1733400233062" duration="19249000" />
     </task>
     <servers />
   </component>

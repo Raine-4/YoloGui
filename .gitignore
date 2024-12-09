@@ -1,0 +1,12 @@
+# ignore all video files
+*.mp4
+*.avi
+
+*.log
+
+*.tmo
+*.swp
+
+.env
+
+/venv/
