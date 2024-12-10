@@ -1,4 +1,4 @@
-# XGB Classifer Stomach trained on in vivo data
+# XGB Classifier Stomach trained on in-vivo data
 # Instructions for use: 
 # 1) Update the "csv_path" to desired data and keep csv data in the folder opened
 # 2) Make sure that both LDA and XGB pickle files are in the folder that is opened

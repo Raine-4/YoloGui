@@ -1,379 +1,444 @@
 0
-"Position: (584, 249), (729, 231), Obj and Confidence: Probe 433.85
+"Position: (581, 262), (697, 363)  |  Status: normal
 "
-"Position: (584, 248), (729, 230), Obj and Confidence: Probe 433.96
+"Position: (582, 263), (698, 363)  |  Status: normal
 "
-"Position: (587, 248), (732, 230), Obj and Confidence: Probe 434.97
+"Position: (583, 264), (700, 362)  |  Status: normal
 "
-"Position: (588, 248), (733, 230), Obj and Confidence: Probe 435.19
+"Position: (583, 265), (701, 363)  |  Status: normal
 "
-"Position: (588, 247), (733, 229), Obj and Confidence: Probe 433.54
+"Position: (584, 265), (701, 362)  |  Status: normal
 "
-"Position: (588, 249), (733, 231), Obj and Confidence: Probe 435.60
+"Position: (584, 264), (702, 363)  |  Status: normal
 "
-"Position: (589, 250), (734, 232), Obj and Confidence: Probe 435.56
+"Position: (584, 261), (704, 365)  |  Status: normal
 "
-"Position: (587, 250), (732, 232), Obj and Confidence: Probe 436.00
+"Position: (585, 261), (704, 365)  |  Status: normal
 "
-"Position: (586, 249), (731, 231), Obj and Confidence: Probe 436.40
+"Position: (586, 262), (704, 366)  |  Status: normal
 "
-"Position: (585, 250), (730, 232), Obj and Confidence: Probe 435.86
+"Position: (584, 260), (704, 367)  |  Status: cancer
 "
-"Position: (585, 251), (730, 233), Obj and Confidence: Probe 434.68
+"Position: (582, 259), (704, 367)  |  Status: cancer
 "
-"Position: (585, 252), (730, 234), Obj and Confidence: Probe 432.66
+"Position: (583, 265), (702, 366)  |  Status: cancer
 "
-"Position: (585, 253), (730, 235), Obj and Confidence: Probe 430.33
+"Position: (582, 265), (702, 367)  |  Status: cancer
 "
-"Position: (587, 255), (732, 237), Obj and Confidence: Probe 432.12
+"Position: (581, 271), (701, 367)  |  Status: cancer
 "
-"Position: (588, 256), (733, 238), Obj and Confidence: Probe 433.11
+"Position: (582, 272), (702, 368)  |  Status: cancer
 "
-"Position: (588, 257), (733, 239), Obj and Confidence: Probe 433.11
+"Position: (584, 274), (702, 368)  |  Status: cancer
 "
-"Position: (588, 256), (733, 238), Obj and Confidence: Probe 433.39
+"Position: (583, 271), (702, 368)  |  Status: cancer
 "
-"Position: (588, 258), (733, 240), Obj and Confidence: Probe 432.45
+"Position: (583, 270), (702, 369)  |  Status: cancer
 "
-"Position: (587, 259), (732, 241), Obj and Confidence: Probe 432.05
+"Position: (583, 267), (702, 369)  |  Status: cancer
 "
-"Position: (587, 259), (732, 241), Obj and Confidence: Probe 430.46
+"Position: (582, 266), (702, 369)  |  Status: normal
 "
-"Position: (586, 258), (731, 240), Obj and Confidence: Probe 428.46
+"Position: (583, 267), (701, 369)  |  Status: normal
 "
-"Position: (586, 258), (731, 240), Obj and Confidence: Probe 428.06
+"Position: (583, 266), (702, 370)  |  Status: normal
 "
-"Position: (586, 258), (731, 240), Obj and Confidence: Probe 425.59
+"Position: (584, 270), (700, 370)  |  Status: normal
 "
-"Position: (586, 259), (731, 241), Obj and Confidence: Probe 424.23
+"Position: (584, 270), (700, 369)  |  Status: normal
 "
-"Position: (586, 259), (731, 241), Obj and Confidence: Probe 420.73
+"Position: (584, 267), (700, 370)  |  Status: normal
 "
-"Position: (585, 259), (730, 241), Obj and Confidence: Probe 414.75
+"Position: (584, 266), (699, 370)  |  Status: normal
 "
-"Position: (585, 258), (730, 240), Obj and Confidence: Probe 407.26
+"Position: (584, 265), (699, 370)  |  Status: normal
 "
-"Position: (584, 260), (729, 242), Obj and Confidence: Probe 402.27
+"Position: (585, 267), (699, 370)  |  Status: normal
 "
-"Position: (584, 261), (729, 243), Obj and Confidence: Probe 415.42
+"Position: (585, 268), (699, 371)  |  Status: normal
 "
-"Position: (584, 262), (729, 244), Obj and Confidence: Probe 422.00
+"Position: (584, 268), (699, 371)  |  Status: normal
 "
-"Position: (584, 262), (729, 244), Obj and Confidence: Probe 422.99
+"Position: (585, 267), (699, 371)  |  Status: normal
 "
-"Position: (583, 262), (728, 244), Obj and Confidence: Probe 424.06
+"Position: (584, 264), (698, 371)  |  Status: normal
 "
-"Position: (583, 263), (728, 245), Obj and Confidence: Probe 426.19
+"Position: (584, 265), (698, 372)  |  Status: normal
 "
-"Position: (583, 264), (728, 246), Obj and Confidence: Probe 428.00
+"Position: (583, 266), (698, 372)  |  Status: normal
 "
-"Position: (582, 264), (727, 246), Obj and Confidence: Probe 431.23
+"Position: (581, 266), (700, 374)  |  Status: normal
 "
-"Position: (583, 264), (728, 246), Obj and Confidence: Probe 432.02
+"Position: (582, 265), (701, 374)  |  Status: normal
 "
-"Position: (584, 264), (729, 246), Obj and Confidence: Probe 433.46
+"Position: (580, 266), (702, 376)  |  Status: normal
 "
-"Position: (585, 265), (730, 247), Obj and Confidence: Probe 434.20
+"Position: (578, 273), (704, 377)  |  Status: normal
 "
-"Position: (584, 264), (729, 246), Obj and Confidence: Probe 433.67
+"Position: (580, 276), (705, 379)  |  Status: normal
 "
-"Position: (586, 265), (731, 247), Obj and Confidence: Probe 433.92
+"Position: (588, 269), (703, 380)  |  Status: normal
 "
-"Position: (587, 266), (732, 248), Obj and Confidence: Probe 435.21
+"Position: (589, 268), (703, 381)  |  Status: normal
 "
-"Position: (584, 265), (729, 247), Obj and Confidence: Probe 433.31
+"Position: (579, 270), (708, 381)  |  Status: normal
 "
-"Position: (583, 265), (728, 247), Obj and Confidence: Probe 432.86
+"Position: (578, 268), (708, 382)  |  Status: normal
 "
-"Position: (581, 266), (726, 248), Obj and Confidence: Probe 434.56
+"Position: (578, 270), (707, 382)  |  Status: normal
 "
-"Position: (580, 266), (725, 248), Obj and Confidence: Probe 434.07
+"Position: (577, 271), (706, 382)  |  Status: normal
 "
-"Position: (582, 272), (727, 254), Obj and Confidence: Probe 434.00
+"Position: (576, 271), (705, 382)  |  Status: normal
 "
-"Position: (581, 274), (726, 256), Obj and Confidence: Probe 435.72
+"Position: (574, 271), (706, 383)  |  Status: normal
 "
-"Position: (582, 278), (727, 260), Obj and Confidence: Probe 435.59
+"Position: (573, 271), (707, 384)  |  Status: normal
 "
-"Position: (581, 279), (726, 261), Obj and Confidence: Probe 435.55
+"Position: (574, 265), (706, 385)  |  Status: normal
 "
-"Position: (582, 280), (727, 262), Obj and Confidence: Probe 435.72
+"Position: (573, 270), (708, 386)  |  Status: normal
 "
-"Position: (582, 279), (727, 261), Obj and Confidence: Probe 436.58
+"Position: (575, 265), (708, 387)  |  Status: normal
 "
-"Position: (581, 281), (726, 263), Obj and Confidence: Probe 437.20
+"Position: (574, 263), (709, 387)  |  Status: normal
 "
-"Position: (581, 282), (726, 264), Obj and Confidence: Probe 437.24
+"Position: (576, 265), (708, 388)  |  Status: normal
 "
-"Position: (583, 290), (728, 272), Obj and Confidence: Probe 432.41
+"Position: (566, 264), (710, 396)  |  Status: normal
 "
-"Position: (582, 295), (727, 277), Obj and Confidence: Probe 436.83
+"Position: (572, 277), (710, 402)  |  Status: normal
 "
-"Position: (582, 298), (727, 280), Obj and Confidence: Probe 436.90
+"Position: (572, 290), (710, 407)  |  Status: normal
 "
-"Position: (581, 300), (726, 282), Obj and Confidence: Probe 440.29
+"Position: (573, 294), (710, 410)  |  Status: normal
 "
-"Position: (582, 302), (727, 284), Obj and Confidence: Probe 440.05
+"Position: (640, 477), (775, 515)  |  Status: normal
+Position: (573, 297), (710, 414)  |  Status: normal
 "
-"Position: (582, 304), (727, 286), Obj and Confidence: Probe 439.61
+"Position: (569, 330), (711, 414)  |  Status: cancer
 "
-"Position: (582, 305), (727, 287), Obj and Confidence: Probe 438.16
+"Position: (642, 477), (772, 515)  |  Status: cancer
+Position: (566, 330), (712, 416)  |  Status: cancer
 "
-"Position: (582, 306), (727, 288), Obj and Confidence: Probe 436.48
+"Position: (568, 328), (711, 417)  |  Status: cancer
 "
-"Position: (581, 310), (726, 292), Obj and Confidence: Probe 385.47
+"Position: (642, 478), (771, 516)  |  Status: cancer
+Position: (567, 318), (708, 417)  |  Status: cancer
 "
-"Position: (581, 311), (726, 293), Obj and Confidence: Probe 419.10
+"Position: (565, 316), (708, 419)  |  Status: cancer
 "
-"Position: (581, 312), (726, 294), Obj and Confidence: Probe 426.99
+"Position: (642, 479), (769, 515)  |  Status: cancer
+Position: (562, 315), (707, 420)  |  Status: cancer
 "
-"Position: (580, 311), (725, 293), Obj and Confidence: Probe 436.39
+"Position: (564, 315), (707, 420)  |  Status: cancer
 "
-"Position: (579, 312), (724, 294), Obj and Confidence: Probe 436.38
+"Position: (641, 479), (769, 515)  |  Status: cancer
+Position: (565, 314), (705, 420)  |  Status: cancer
 "
-"Position: (579, 310), (724, 292), Obj and Confidence: Probe 436.22
+"Position: (641, 479), (770, 514)  |  Status: cancer
+Position: (566, 309), (705, 419)  |  Status: cancer
 "
-"Position: (579, 310), (724, 292), Obj and Confidence: Probe 436.08
+"Position: (641, 478), (769, 514)  |  Status: cancer
+Position: (567, 312), (705, 418)  |  Status: cancer
 "
-"Position: (579, 309), (724, 291), Obj and Confidence: Probe 436.88
+"Position: (642, 478), (768, 513)  |  Status: cancer
+Position: (569, 311), (705, 418)  |  Status: cancer
 "
-"Position: (579, 308), (724, 290), Obj and Confidence: Probe 437.20
+"Position: (642, 479), (769, 514)  |  Status: cancer
+Position: (568, 314), (705, 418)  |  Status: cancer
 "
-"Position: (579, 308), (724, 290), Obj and Confidence: Probe 437.26
+"Position: (641, 478), (768, 514)  |  Status: cancer
+Position: (568, 311), (705, 418)  |  Status: cancer
 "
-"Position: (579, 307), (724, 289), Obj and Confidence: Probe 437.41
+"Position: (642, 479), (769, 513)  |  Status: cancer
+Position: (569, 315), (705, 417)  |  Status: cancer
 "
-"Position: (579, 307), (724, 289), Obj and Confidence: Probe 437.10
+"Position: (641, 478), (768, 513)  |  Status: cancer
+Position: (570, 312), (705, 417)  |  Status: cancer
 "
-"Position: (580, 307), (725, 289), Obj and Confidence: Probe 417.11
+"Position: (571, 311), (704, 416)  |  Status: cancer
 "
-"Position: (579, 306), (724, 288), Obj and Confidence: Probe 403.67
+"Position: (571, 311), (703, 416)  |  Status: cancer
 "
-"Position: (579, 306), (724, 288), Obj and Confidence: Probe 396.43
+"Position: (572, 312), (703, 415)  |  Status: cancer
 "
-"Position: (579, 305), (724, 287), Obj and Confidence: Probe 431.87
+"Position: (564, 294), (704, 418)  |  Status: cancer
 "
-"Position: (579, 305), (724, 287), Obj and Confidence: Probe 432.39
+"Position: (642, 478), (765, 511)  |  Status: cancer
+Position: (571, 285), (704, 416)  |  Status: cancer
 "
-"Position: (580, 305), (725, 287), Obj and Confidence: Probe 433.02
+"Position: (642, 477), (766, 511)  |  Status: cancer
+Position: (574, 286), (704, 416)  |  Status: cancer
 "
-"Position: (581, 304), (726, 286), Obj and Confidence: Probe 433.99
+"Position: (641, 477), (765, 511)  |  Status: cancer
+Position: (575, 290), (704, 415)  |  Status: cancer
 "
-"Position: (580, 304), (725, 286), Obj and Confidence: Probe 434.00
+"Position: (576, 291), (703, 415)  |  Status: cancer
 "
-"Position: (580, 303), (725, 285), Obj and Confidence: Probe 434.21
+"Position: (577, 292), (703, 415)  |  Status: cancer
 "
-"Position: (581, 304), (726, 286), Obj and Confidence: Probe 433.78
+"Position: (577, 291), (703, 414)  |  Status: cancer
 "
-"Position: (580, 303), (725, 285), Obj and Confidence: Probe 433.76
+"Position: (578, 292), (703, 414)  |  Status: cancer
 "
-"Position: (580, 303), (725, 285), Obj and Confidence: Probe 433.99
+"Position: (574, 296), (703, 412)  |  Status: cancer
 "
-"Position: (580, 302), (725, 284), Obj and Confidence: Probe 435.96
+"Position: (573, 282), (703, 413)  |  Status: cancer
 "
-"Position: (580, 302), (725, 284), Obj and Confidence: Probe 436.83
+"Position: (572, 281), (703, 413)  |  Status: cancer
 "
-"Position: (579, 302), (724, 284), Obj and Confidence: Probe 436.81
+"Position: (572, 281), (703, 413)  |  Status: cancer
 "
-"Position: (579, 302), (724, 284), Obj and Confidence: Probe 436.39
+"Position: (572, 281), (703, 413)  |  Status: cancer
 "
-"Position: (578, 301), (723, 283), Obj and Confidence: Probe 437.33
+"Position: (571, 280), (703, 412)  |  Status: cancer
 "
-"Position: (576, 294), (721, 276), Obj and Confidence: Probe 438.53
+"Position: (567, 278), (704, 408)  |  Status: cancer
 "
-"Position: (573, 286), (718, 268), Obj and Confidence: Probe 433.75
+"Position: (572, 279), (702, 398)  |  Status: cancer
 "
-"Position: (573, 283), (718, 265), Obj and Confidence: Probe 430.86
+"Position: (570, 275), (701, 394)  |  Status: cancer
 "
-"Position: (572, 282), (717, 264), Obj and Confidence: Probe 424.64
+"Position: (571, 277), (699, 391)  |  Status: cancer
 "
-"Position: (572, 281), (717, 263), Obj and Confidence: Probe 428.82
+"Position: (573, 277), (699, 390)  |  Status: cancer
 "
-"Position: (573, 281), (718, 263), Obj and Confidence: Probe 427.14
+"Position: (577, 277), (699, 391)  |  Status: cancer
 "
-"Position: (574, 280), (719, 262), Obj and Confidence: Probe 427.65
+"Position: (578, 277), (699, 390)  |  Status: cancer
 "
-"Position: (575, 280), (720, 262), Obj and Confidence: Probe 425.89
+"Position: (580, 282), (699, 389)  |  Status: cancer
 "
-"Position: (576, 277), (721, 259), Obj and Confidence: Probe 432.15
+"Position: (581, 280), (699, 388)  |  Status: cancer
 "
-"Position: (578, 276), (723, 258), Obj and Confidence: Probe 435.61
+"Position: (581, 262), (697, 363)  |  Status: cancer
 "
-"Position: (576, 271), (721, 253), Obj and Confidence: Probe 434.26
+"Position: (582, 263), (698, 363)  |  Status: cancer
 "
-"Position: (573, 268), (718, 250), Obj and Confidence: Probe 433.05
+"Position: (583, 264), (700, 362)  |  Status: cancer
 "
-"Position: (574, 268), (719, 250), Obj and Confidence: Probe 432.99
+"Position: (583, 265), (701, 363)  |  Status: cancer
 "
-"Position: (574, 266), (719, 248), Obj and Confidence: Probe 433.12
+"Position: (584, 265), (701, 362)  |  Status: cancer
 "
-"Position: (575, 266), (720, 248), Obj and Confidence: Probe 432.83
+"Position: (584, 264), (702, 363)  |  Status: normal
 "
-"Position: (575, 264), (720, 246), Obj and Confidence: Probe 391.54
+"Position: (584, 261), (704, 365)  |  Status: normal
 "
-"Position: (576, 261), (721, 243), Obj and Confidence: Probe 363.79
+"Position: (585, 261), (704, 365)  |  Status: normal
 "
-"Position: (578, 262), (723, 244), Obj and Confidence: Probe 422.24
+"Position: (586, 262), (704, 366)  |  Status: normal
 "
-"Position: (581, 260), (726, 242), Obj and Confidence: Probe 377.31
+"Position: (584, 260), (704, 367)  |  Status: normal
 "
-"Position: (584, 262), (729, 244), Obj and Confidence: Probe 427.84
+"Position: (582, 259), (704, 367)  |  Status: normal
 "
-"Position: (586, 258), (731, 240), Obj and Confidence: Probe 436.97
+"Position: (583, 265), (702, 366)  |  Status: normal
 "
-"Position: (586, 257), (731, 239), Obj and Confidence: Probe 438.84
+"Position: (582, 265), (702, 367)  |  Status: normal
 "
-"Position: (588, 256), (733, 238), Obj and Confidence: Probe 439.13
+"Position: (581, 271), (701, 367)  |  Status: normal
 "
-"Position: (589, 255), (734, 237), Obj and Confidence: Probe 439.50
+"Position: (582, 272), (702, 368)  |  Status: normal
 "
-"Position: (590, 251), (735, 233), Obj and Confidence: Probe 438.22
+"Position: (584, 274), (702, 368)  |  Status: cancer
 "
-"Position: (590, 250), (735, 232), Obj and Confidence: Probe 436.58
+"Position: (583, 271), (702, 368)  |  Status: cancer
 "
-"Position: (590, 249), (735, 231), Obj and Confidence: Probe 436.75
+"Position: (583, 270), (702, 369)  |  Status: cancer
 "
-"Position: (591, 249), (736, 231), Obj and Confidence: Probe 437.51
+"Position: (583, 267), (702, 369)  |  Status: cancer
 "
-"Position: (592, 249), (737, 231), Obj and Confidence: Probe 437.84
+"Position: (582, 266), (702, 369)  |  Status: cancer
 "
-"Position: (594, 249), (739, 231), Obj and Confidence: Probe 438.43
+"Position: (583, 267), (701, 369)  |  Status: cancer
 "
-"Position: (595, 249), (740, 231), Obj and Confidence: Probe 438.62
+"Position: (583, 266), (702, 370)  |  Status: cancer
 "
-"Position: (595, 250), (740, 232), Obj and Confidence: Probe 438.78
+"Position: (584, 270), (700, 370)  |  Status: cancer
 "
-"Position: (597, 251), (742, 233), Obj and Confidence: Probe 438.53
+"Position: (584, 270), (700, 369)  |  Status: cancer
 "
-"Position: (598, 251), (743, 233), Obj and Confidence: Probe 439.19
+"Position: (584, 267), (700, 370)  |  Status: cancer
 "
-"Position: (599, 251), (744, 233), Obj and Confidence: Probe 439.17
+"Position: (584, 266), (699, 370)  |  Status: normal
 "
-"Position: (599, 251), (744, 233), Obj and Confidence: Probe 439.33
+"Position: (584, 265), (699, 370)  |  Status: normal
 "
-"Position: (599, 252), (744, 234), Obj and Confidence: Probe 439.74
+"Position: (585, 267), (699, 370)  |  Status: normal
 "
-"Position: (599, 253), (744, 235), Obj and Confidence: Probe 440.43
+"Position: (585, 268), (699, 371)  |  Status: normal
 "
-"Position: (598, 252), (743, 234), Obj and Confidence: Probe 440.54
+"Position: (584, 268), (699, 371)  |  Status: normal
 "
-"Position: (597, 254), (742, 236), Obj and Confidence: Probe 440.46
+"Position: (585, 267), (699, 371)  |  Status: normal
 "
-"Position: (597, 256), (742, 238), Obj and Confidence: Probe 440.15
+"Position: (584, 264), (698, 371)  |  Status: normal
 "
-"Position: (597, 257), (742, 239), Obj and Confidence: Probe 441.14
+"Position: (584, 265), (698, 372)  |  Status: normal
 "
-"Position: (598, 259), (743, 241), Obj and Confidence: Probe 441.29
+"Position: (583, 266), (698, 372)  |  Status: normal
 "
-"Position: (599, 260), (744, 242), Obj and Confidence: Probe 441.89
+"Position: (581, 266), (700, 374)  |  Status: normal
 "
-"Position: (600, 262), (745, 244), Obj and Confidence: Probe 442.67
+"Position: (582, 265), (701, 374)  |  Status: normal
 "
-"Position: (599, 264), (744, 246), Obj and Confidence: Probe 443.23
+"Position: (580, 266), (702, 376)  |  Status: normal
 "
-"Position: (600, 266), (745, 248), Obj and Confidence: Probe 442.77
+"Position: (578, 273), (704, 377)  |  Status: normal
 "
-"Position: (600, 267), (745, 249), Obj and Confidence: Probe 442.64
+"Position: (580, 276), (705, 379)  |  Status: normal
 "
-"Position: (599, 268), (744, 250), Obj and Confidence: Probe 442.56
+"Position: (588, 269), (703, 380)  |  Status: normal
 "
-"Position: (599, 269), (744, 251), Obj and Confidence: Probe 441.97
+"Position: (589, 268), (703, 381)  |  Status: normal
 "
-"Position: (599, 270), (744, 252), Obj and Confidence: Probe 441.56
+"Position: (579, 270), (708, 381)  |  Status: normal
 "
-"Position: (599, 272), (744, 254), Obj and Confidence: Probe 441.88
+"Position: (578, 268), (708, 382)  |  Status: normal
 "
-"Position: (600, 272), (745, 254), Obj and Confidence: Probe 441.77
+"Position: (578, 270), (707, 382)  |  Status: normal
 "
-"Position: (599, 273), (744, 255), Obj and Confidence: Probe 441.84
+"Position: (577, 271), (706, 382)  |  Status: normal
 "
-"Position: (598, 273), (743, 255), Obj and Confidence: Probe 441.77
+"Position: (576, 271), (705, 382)  |  Status: normal
 "
-"Position: (597, 274), (742, 256), Obj and Confidence: Probe 441.49
+"Position: (574, 271), (706, 383)  |  Status: normal
 "
-"Position: (596, 274), (741, 256), Obj and Confidence: Probe 441.33
+"Position: (573, 271), (707, 384)  |  Status: normal
 "
-"Position: (595, 276), (740, 258), Obj and Confidence: Probe 441.26
+"Position: (574, 265), (706, 385)  |  Status: normal
 "
-"Position: (595, 278), (740, 260), Obj and Confidence: Probe 441.36
+"Position: (573, 270), (708, 386)  |  Status: normal
 "
-"Position: (595, 278), (740, 260), Obj and Confidence: Probe 441.49
+"Position: (575, 265), (708, 387)  |  Status: normal
 "
-"Position: (595, 280), (740, 262), Obj and Confidence: Probe 441.11
+"Position: (574, 263), (709, 387)  |  Status: normal
 "
-"Position: (595, 281), (740, 263), Obj and Confidence: Probe 441.14
+"Position: (576, 265), (708, 388)  |  Status: normal
 "
-"Position: (595, 282), (740, 264), Obj and Confidence: Probe 440.81
+"Position: (566, 264), (710, 396)  |  Status: normal
 "
-"Position: (594, 283), (739, 265), Obj and Confidence: Probe 440.87
+"Position: (572, 277), (710, 402)  |  Status: normal
 "
-"Position: (593, 283), (738, 265), Obj and Confidence: Probe 440.29
+"Position: (572, 290), (710, 407)  |  Status: normal
 "
-"Position: (592, 284), (737, 266), Obj and Confidence: Probe 440.79
+"Position: (573, 294), (710, 410)  |  Status: normal
 "
-"Position: (592, 285), (737, 267), Obj and Confidence: Probe 441.06
+"Position: (640, 477), (775, 515)  |  Status: normal
+Position: (573, 297), (710, 414)  |  Status: normal
 "
-"Position: (592, 286), (737, 268), Obj and Confidence: Probe 440.96
+"Position: (569, 330), (711, 414)  |  Status: normal
 "
-"Position: (592, 285), (737, 267), Obj and Confidence: Probe 441.06
+"Position: (642, 477), (772, 515)  |  Status: normal
+Position: (566, 330), (712, 416)  |  Status: normal
 "
-"Position: (592, 286), (737, 268), Obj and Confidence: Probe 441.28
+"Position: (568, 328), (711, 417)  |  Status: normal
 "
-"Position: (592, 287), (737, 269), Obj and Confidence: Probe 441.37
+"Position: (581, 262), (697, 363)  |  Status: normal
 "
-"Position: (591, 287), (736, 269), Obj and Confidence: Probe 441.24
+"Position: (582, 263), (698, 363)  |  Status: normal
 "
-"Position: (590, 287), (735, 269), Obj and Confidence: Probe 441.37
+"Position: (583, 264), (700, 362)  |  Status: cancer
 "
-"Position: (590, 289), (735, 271), Obj and Confidence: Probe 441.34
+"Position: (583, 265), (701, 363)  |  Status: cancer
 "
-"Position: (590, 290), (735, 272), Obj and Confidence: Probe 441.37
+"Position: (584, 265), (701, 362)  |  Status: cancer
 "
-"Position: (589, 291), (734, 273), Obj and Confidence: Probe 441.84
+"Position: (584, 264), (702, 363)  |  Status: cancer
 "
-"Position: (589, 293), (734, 275), Obj and Confidence: Probe 444.16
+"Position: (584, 261), (704, 365)  |  Status: cancer
 "
-"Position: (588, 295), (733, 277), Obj and Confidence: Probe 444.29
+"Position: (585, 261), (704, 365)  |  Status: cancer
 "
-"Position: (589, 297), (734, 279), Obj and Confidence: Probe 430.53
+"Position: (586, 262), (704, 366)  |  Status: cancer
 "
-"Position: (588, 298), (733, 280), Obj and Confidence: Probe 440.88
+"Position: (584, 260), (704, 367)  |  Status: cancer
 "
-"Position: (588, 299), (733, 281), Obj and Confidence: Probe 443.88
+"Position: (582, 259), (704, 367)  |  Status: cancer
 "
-"Position: (587, 301), (732, 283), Obj and Confidence: Probe 443.72
+"Position: (583, 265), (702, 366)  |  Status: cancer
 "
-"Position: (586, 301), (731, 283), Obj and Confidence: Probe 443.34
+"Position: (582, 265), (702, 367)  |  Status: cancer
 "
-"Position: (586, 302), (731, 284), Obj and Confidence: Probe 443.12
+"Position: (581, 271), (701, 367)  |  Status: cancer
 "
-"Position: (586, 303), (731, 285), Obj and Confidence: Probe 442.74
+"Position: (582, 272), (702, 368)  |  Status: cancer
 "
-"Position: (586, 304), (731, 286), Obj and Confidence: Probe 442.02
+"Position: (584, 274), (702, 368)  |  Status: cancer
 "
-"Position: (585, 306), (730, 288), Obj and Confidence: Probe 441.47
+"Position: (583, 271), (702, 368)  |  Status: cancer
 "
-"Position: (585, 308), (730, 290), Obj and Confidence: Probe 441.38
+"Position: (583, 270), (702, 369)  |  Status: cancer
 "
-"Position: (585, 310), (730, 292), Obj and Confidence: Probe 441.18
+"Position: (583, 267), (702, 369)  |  Status: cancer
 "
-"Position: (584, 311), (729, 293), Obj and Confidence: Probe 440.60
+"Position: (582, 266), (702, 369)  |  Status: cancer
 "
-"Position: (585, 313), (730, 295), Obj and Confidence: Probe 430.99
+"Position: (583, 267), (701, 369)  |  Status: cancer
 "
-"Position: (584, 314), (729, 296), Obj and Confidence: Probe 430.24
+"Position: (583, 266), (702, 370)  |  Status: cancer
 "
-"Position: (583, 314), (728, 296), Obj and Confidence: Probe 430.19
+"Position: (584, 270), (700, 370)  |  Status: normal
 "
-"Position: (583, 315), (728, 297), Obj and Confidence: Probe 429.70
+"Position: (584, 270), (700, 369)  |  Status: normal
 "
-"Position: (584, 318), (729, 300), Obj and Confidence: Probe 431.07
+"Position: (584, 267), (700, 370)  |  Status: normal
 "
-"Position: (584, 317), (729, 299), Obj and Confidence: Probe 431.36
+"Position: (584, 266), (699, 370)  |  Status: normal
 "
-"Position: (583, 315), (728, 297), Obj and Confidence: Probe 429.04
+"Position: (584, 265), (699, 370)  |  Status: normal
 "
-"Position: (582, 316), (727, 298), Obj and Confidence: Probe 430.02
+"Position: (585, 267), (699, 370)  |  Status: normal
 "
-"Position: (580, 315), (725, 297), Obj and Confidence: Probe 432.43
+"Position: (585, 268), (699, 371)  |  Status: normal
+"
+"Position: (584, 268), (699, 371)  |  Status: normal
+"
+"Position: (585, 267), (699, 371)  |  Status: normal
+"
+"Position: (584, 264), (698, 371)  |  Status: normal
+"
+"Position: (584, 265), (698, 372)  |  Status: cancer
+"
+"Position: (583, 266), (698, 372)  |  Status: cancer
+"
+"Position: (581, 266), (700, 374)  |  Status: cancer
+"
+"Position: (582, 265), (701, 374)  |  Status: cancer
+"
+"Position: (580, 266), (702, 376)  |  Status: cancer
+"
+"Position: (578, 273), (704, 377)  |  Status: cancer
+"
+"Position: (580, 276), (705, 379)  |  Status: cancer
+"
+"Position: (588, 269), (703, 380)  |  Status: cancer
+"
+"Position: (589, 268), (703, 381)  |  Status: cancer
+"
+"Position: (579, 270), (708, 381)  |  Status: cancer
+"
+"Position: (578, 268), (708, 382)  |  Status: cancer
+"
+"Position: (578, 270), (707, 382)  |  Status: cancer
+"
+"Position: (577, 271), (706, 382)  |  Status: cancer
+"
+"Position: (576, 271), (705, 382)  |  Status: cancer
+"
+"Position: (574, 271), (706, 383)  |  Status: cancer
+"
+"Position: (573, 271), (707, 384)  |  Status: cancer
+"
+"Position: (574, 265), (706, 385)  |  Status: cancer
+"
+"Position: (573, 270), (708, 386)  |  Status: cancer
+"
+"Position: (575, 265), (708, 387)  |  Status: cancer
+"
+"Position: (574, 263), (709, 387)  |  Status: cancer
+"
+"Position: (576, 265), (708, 388)  |  Status: cancer
 "

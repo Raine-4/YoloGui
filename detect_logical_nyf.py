@@ -329,7 +329,7 @@ class UI_Logic_Window(QtWidgets.QMainWindow):
                     for ind in range(len(self.points)):
                         point = self.points[ind]
                         cur_status = self.status[ind]
-                        cur_color = (255, 0, 0) if cur_status == 0 else (0, 0, 255)
+                        cur_color = (144, 238, 144) if cur_status == 0 else (255, 179, 230)
                         cv2.circle(showimg, point, radius=3, color=cur_color, thickness=-1)  # Draw all points
         return  info_show
 
