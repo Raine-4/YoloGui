@@ -6,9 +6,20 @@
   <component name="ChangeListManager">
     <list default="true" id="549feb56-a4db-42f4-99cd-84952b0158ac" name="Changes" comment="Changes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/XGB_LDA_Classification_Code.py" beforeDir="false" afterPath="$PROJECT_DIR$/XGB_LDA_Classification_Code.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/detect_logical_nyf.py" beforeDir="false" afterPath="$PROJECT_DIR$/detect_logical_nyf.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/coordinates_output/coordinates.csv" beforeDir="false" afterPath="$PROJECT_DIR$/output/coordinates_output/coordinates.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output/img_output/2024-11-25-15-32-53_last_frame.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/plots.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/plots.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights/best.pt" beforeDir="false" afterPath="$PROJECT_DIR$/weights/best.pt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights/best567.pt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights/best_group9.pt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights/download_weights.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights/exvivo.pt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights/invivo.pt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights/last_.pt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights/most_advanced_model.pt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights/yolov5m.pt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/weights/yolov5s.pt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +29,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Raine-4"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Raine-4/YoloGui.git",
+    "accountId": "d4943765-90ad-41bb-876b-bd830504321c"
+  }
+}]]></component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file:///opt/anaconda3/envs/pyqt5_py3.9/lib/python3.9/site-packages/moviepy/Clip.py" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -29,33 +52,57 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;Python.XGB_LDA_Classification_Code.executor&quot;: &quot;Run&quot;,
-    &quot;Python.detect.executor&quot;: &quot;Run&quot;,
-    &quot;Python.detect_logical (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.detect_logical.executor&quot;: &quot;Run&quot;,
-    &quot;Python.detect_logical_XKY.executor&quot;: &quot;Run&quot;,
-    &quot;Python.detect_logical_hahah.executor&quot;: &quot;Run&quot;,
-    &quot;Python.detect_logical_nyf (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.detect_logical_nyf.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main_logic.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/yufeng/Documents/Imperial/group project/YoloGui&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Python.XGB_LDA_Classification_Code (1).executor": "Run",
+    "Python.XGB_LDA_Classification_Code.executor": "Run",
+    "Python.detect.executor": "Run",
+    "Python.detect_logical (1).executor": "Run",
+    "Python.detect_logical.executor": "Run",
+    "Python.detect_logical_XKY.executor": "Run",
+    "Python.detect_logical_hahah.executor": "Run",
+    "Python.detect_logical_nyf (1).executor": "Run",
+    "Python.detect_logical_nyf.executor": "Run",
+    "Python.main_logic.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "/Users/yufeng/Documents/Imperial/group project/YoloGui",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Python.detect_logical_nyf">
+    <configuration name="XGB_LDA_Classification_Code (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="YoloV5_PyQt5-main" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/XGB_LDA_Classification_Code.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="XGB_LDA_Classification_Code" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="YoloV5_PyQt5-main" />
       <option name="ENV_FILES" value="" />
@@ -71,29 +118,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../XGB Classifer Stomach/XGB_LDA_Classification_Code.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="detect_logical" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="YoloV5_PyQt5-main" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/detect_logical.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -175,10 +199,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.detect_logical_nyf" />
+        <item itemvalue="Python.XGB_LDA_Classification_Code (1)" />
         <item itemvalue="Python.detect_logical_nyf (1)" />
         <item itemvalue="Python.detect_logical_XKY" />
         <item itemvalue="Python.XGB_LDA_Classification_Code" />
-        <item itemvalue="Python.detect_logical" />
       </list>
     </recent_temporary>
   </component>
@@ -213,7 +237,7 @@
       <workItem from="1733340042405" duration="8156000" />
       <workItem from="1733400233062" duration="19249000" />
       <workItem from="1733789163256" duration="1212000" />
-      <workItem from="1733840368274" duration="728000" />
+      <workItem from="1733840368274" duration="11004000" />
     </task>
     <servers />
   </component>
@@ -225,7 +249,7 @@
     <option name="LAST_COMMIT_MESSAGE" value="Changes" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/detect_logical_nyf_py$detect_logical_nyf.coverage" NAME="detect_logical_nyf 覆盖结果" MODIFIED="1733840376395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/detect_logical_nyf_py$detect_logical_nyf.coverage" NAME="detect_logical_nyf 覆盖结果" MODIFIED="1733852979867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/detect_logical_nyf_py$detect_logical_XKY.coverage" NAME="detect_logical_XKY 覆盖结果" MODIFIED="1733752836628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/YoloV5_PyQt5_main$detect_logical.coverage" NAME="detect_logical 覆盖结果" MODIFIED="1732023862269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/new_ui_py$detect_logical_nyf.coverage" NAME="detect_logical_nyf 覆盖结果" MODIFIED="1732479159690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -233,5 +257,6 @@
     <SUITE FILE_PATH="coverage/detect_logical_nyf_py$XGB_LDA_Classification_Code.coverage" NAME="XGB_LDA_Classification_Code 覆盖结果" MODIFIED="1733400440664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../XGB Classifer Stomach" />
     <SUITE FILE_PATH="coverage/new_ui_py$detect_logical.coverage" NAME="detect_logical 覆盖结果" MODIFIED="1732439766881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/new_ui_py$detect_logical__1_.coverage" NAME="detect_logical (1) 覆盖结果" MODIFIED="1732286046407" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../../../../Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/23091cf908fd456731aca047c1088886/Message/MessageTemp/47b6c0c877a0796226c27f6b0f1d3e68/File" />
+    <SUITE FILE_PATH="coverage/detect_logical_nyf_py$XGB_LDA_Classification_Code__1_.coverage" NAME="XGB_LDA_Classification_Code (1) 覆盖结果" MODIFIED="1733842548570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

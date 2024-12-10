@@ -1,444 +1,323 @@
 0
-"Position: (581, 262), (697, 363)  |  Status: normal
+"Position: (595, 273), (718, 344)  |  Status: normal | P_cancer = 22.84%
 "
-"Position: (582, 263), (698, 363)  |  Status: normal
+"Position: (597, 275), (718, 345)  |  Status: normal | P_cancer = 22.84%
 "
-"Position: (583, 264), (700, 362)  |  Status: normal
+"Position: (597, 276), (720, 345)  |  Status: normal | P_cancer = 22.84%
 "
-"Position: (583, 265), (701, 363)  |  Status: normal
+"Position: (599, 277), (717, 347)  |  Status: normal | P_cancer = 22.84%
 "
-"Position: (584, 265), (701, 362)  |  Status: normal
+"Position: (600, 278), (716, 347)  |  Status: normal | P_cancer = 22.84%
 "
-"Position: (584, 264), (702, 363)  |  Status: normal
+"Position: (600, 278), (717, 348)  |  Status: normal | P_cancer = 22.84%
 "
-"Position: (584, 261), (704, 365)  |  Status: normal
+"Position: (599, 278), (718, 348)  |  Status: normal | P_cancer = 22.84%
 "
-"Position: (585, 261), (704, 365)  |  Status: normal
+"Position: (600, 278), (718, 348)  |  Status: normal | P_cancer = 22.84%
 "
-"Position: (586, 262), (704, 366)  |  Status: normal
+"Position: (599, 277), (718, 348)  |  Status: normal | P_cancer = 22.84%
 "
-"Position: (584, 260), (704, 367)  |  Status: cancer
+"Position: (598, 277), (718, 349)  |  Status: cancer | P_cancer = 64.62%
 "
-"Position: (582, 259), (704, 367)  |  Status: cancer
+"Position: (597, 278), (721, 349)  |  Status: cancer | P_cancer = 64.62%
 "
-"Position: (583, 265), (702, 366)  |  Status: cancer
+"Position: (597, 277), (719, 351)  |  Status: cancer | P_cancer = 64.62%
 "
-"Position: (582, 265), (702, 367)  |  Status: cancer
+"Position: (596, 278), (719, 353)  |  Status: cancer | P_cancer = 64.62%
 "
-"Position: (581, 271), (701, 367)  |  Status: cancer
+"Position: (595, 279), (718, 356)  |  Status: cancer | P_cancer = 64.62%
 "
-"Position: (582, 272), (702, 368)  |  Status: cancer
+"Position: (599, 282), (713, 358)  |  Status: cancer | P_cancer = 64.62%
 "
-"Position: (584, 274), (702, 368)  |  Status: cancer
+"Position: (598, 280), (713, 361)  |  Status: cancer | P_cancer = 64.62%
 "
-"Position: (583, 271), (702, 368)  |  Status: cancer
+"Position: (598, 279), (712, 362)  |  Status: cancer | P_cancer = 64.62%
 "
-"Position: (583, 270), (702, 369)  |  Status: cancer
+"Position: (598, 279), (714, 364)  |  Status: cancer | P_cancer = 64.62%
 "
-"Position: (583, 267), (702, 369)  |  Status: cancer
+"Position: (598, 279), (714, 365)  |  Status: cancer | P_cancer = 64.62%
 "
-"Position: (582, 266), (702, 369)  |  Status: normal
+"Position: (598, 279), (712, 366)  |  Status: normal | P_cancer = 6.62%
 "
-"Position: (583, 267), (701, 369)  |  Status: normal
+"Position: (599, 278), (712, 367)  |  Status: normal | P_cancer = 6.62%
 "
-"Position: (583, 266), (702, 370)  |  Status: normal
+"Position: (604, 279), (712, 368)  |  Status: normal | P_cancer = 6.62%
 "
-"Position: (584, 270), (700, 370)  |  Status: normal
+"Position: (604, 279), (712, 369)  |  Status: normal | P_cancer = 6.62%
 "
-"Position: (584, 270), (700, 369)  |  Status: normal
+"Position: (603, 280), (713, 370)  |  Status: normal | P_cancer = 6.62%
 "
-"Position: (584, 267), (700, 370)  |  Status: normal
+"Position: (602, 280), (712, 371)  |  Status: normal | P_cancer = 6.62%
 "
-"Position: (584, 266), (699, 370)  |  Status: normal
+"Position: (601, 282), (712, 372)  |  Status: normal | P_cancer = 6.62%
 "
-"Position: (584, 265), (699, 370)  |  Status: normal
+"Position: (601, 281), (712, 373)  |  Status: normal | P_cancer = 6.62%
 "
-"Position: (585, 267), (699, 370)  |  Status: normal
+"Position: (601, 282), (711, 373)  |  Status: normal | P_cancer = 6.62%
 "
-"Position: (585, 268), (699, 371)  |  Status: normal
+"Position: (599, 284), (709, 373)  |  Status: normal | P_cancer = 6.62%
 "
-"Position: (584, 268), (699, 371)  |  Status: normal
+"Position: (598, 283), (709, 374)  |  Status: normal | P_cancer = 8.64%
 "
-"Position: (585, 267), (699, 371)  |  Status: normal
+"Position: (597, 284), (709, 376)  |  Status: normal | P_cancer = 8.64%
 "
-"Position: (584, 264), (698, 371)  |  Status: normal
+"Position: (596, 278), (711, 377)  |  Status: normal | P_cancer = 8.64%
 "
-"Position: (584, 265), (698, 372)  |  Status: normal
+"Position: (595, 278), (711, 378)  |  Status: normal | P_cancer = 8.64%
 "
-"Position: (583, 266), (698, 372)  |  Status: normal
+"Position: (593, 275), (711, 378)  |  Status: normal | P_cancer = 8.64%
 "
-"Position: (581, 266), (700, 374)  |  Status: normal
+"Position: (591, 275), (708, 379)  |  Status: normal | P_cancer = 8.64%
 "
-"Position: (582, 265), (701, 374)  |  Status: normal
+""
+"Position: (590, 272), (709, 380)  |  Status: normal | P_cancer = 8.64%
 "
-"Position: (580, 266), (702, 376)  |  Status: normal
+""
+""
+""
+""
+""
+"Position: (588, 276), (711, 383)  |  Status: normal | P_cancer = 8.64%
 "
-"Position: (578, 273), (704, 377)  |  Status: normal
+""
+""
+""
+""
+"Position: (585, 288), (713, 392)  |  Status: normal | P_cancer = 8.64%
 "
-"Position: (580, 276), (705, 379)  |  Status: normal
+"Position: (583, 289), (712, 395)  |  Status: normal | P_cancer = 8.64%
 "
-"Position: (588, 269), (703, 380)  |  Status: normal
+""
+"Position: (582, 313), (714, 399)  |  Status: normal | P_cancer = 8.64%
 "
-"Position: (589, 268), (703, 381)  |  Status: normal
+"Position: (581, 314), (714, 401)  |  Status: normal | P_cancer = 8.64%
 "
-"Position: (579, 270), (708, 381)  |  Status: normal
+"Position: (581, 312), (714, 402)  |  Status: normal | P_cancer = 8.64%
 "
-"Position: (578, 268), (708, 382)  |  Status: normal
+"Position: (584, 325), (713, 402)  |  Status: normal | P_cancer = 8.64%
 "
-"Position: (578, 270), (707, 382)  |  Status: normal
+"Position: (583, 327), (712, 403)  |  Status: normal | P_cancer = 8.64%
 "
-"Position: (577, 271), (706, 382)  |  Status: normal
+"Position: (583, 329), (711, 404)  |  Status: normal | P_cancer = 8.64%
 "
-"Position: (576, 271), (705, 382)  |  Status: normal
+"Position: (583, 331), (711, 405)  |  Status: normal | P_cancer = 8.64%
 "
-"Position: (574, 271), (706, 383)  |  Status: normal
+"Position: (580, 331), (712, 408)  |  Status: normal | P_cancer = 8.64%
 "
-"Position: (573, 271), (707, 384)  |  Status: normal
+"Position: (575, 327), (711, 410)  |  Status: normal | P_cancer = 8.64%
 "
-"Position: (574, 265), (706, 385)  |  Status: normal
+"Position: (573, 328), (711, 411)  |  Status: normal | P_cancer = 8.64%
 "
-"Position: (573, 270), (708, 386)  |  Status: normal
+"Position: (570, 325), (711, 412)  |  Status: normal | P_cancer = 47.13%
 "
-"Position: (575, 265), (708, 387)  |  Status: normal
+"Position: (569, 329), (712, 413)  |  Status: normal | P_cancer = 47.13%
 "
-"Position: (574, 263), (709, 387)  |  Status: normal
+"Position: (568, 329), (712, 414)  |  Status: normal | P_cancer = 47.13%
 "
-"Position: (576, 265), (708, 388)  |  Status: normal
+"Position: (567, 327), (712, 415)  |  Status: normal | P_cancer = 47.13%
 "
-"Position: (566, 264), (710, 396)  |  Status: normal
+"Position: (566, 327), (711, 415)  |  Status: normal | P_cancer = 47.13%
 "
-"Position: (572, 277), (710, 402)  |  Status: normal
+"Position: (564, 325), (710, 415)  |  Status: normal | P_cancer = 47.13%
 "
-"Position: (572, 290), (710, 407)  |  Status: normal
+"Position: (565, 326), (709, 415)  |  Status: normal | P_cancer = 47.13%
 "
-"Position: (573, 294), (710, 410)  |  Status: normal
+"Position: (563, 331), (710, 415)  |  Status: normal | P_cancer = 47.13%
 "
-"Position: (640, 477), (775, 515)  |  Status: normal
-Position: (573, 297), (710, 414)  |  Status: normal
+"Position: (567, 326), (707, 414)  |  Status: normal | P_cancer = 47.13%
 "
-"Position: (569, 330), (711, 414)  |  Status: cancer
+"Position: (566, 324), (707, 414)  |  Status: normal | P_cancer = 47.13%
 "
-"Position: (642, 477), (772, 515)  |  Status: cancer
-Position: (566, 330), (712, 416)  |  Status: cancer
+"Position: (566, 323), (707, 414)  |  Status: cancer | P_cancer = 64.62%
 "
-"Position: (568, 328), (711, 417)  |  Status: cancer
+"Position: (567, 319), (707, 413)  |  Status: cancer | P_cancer = 64.62%
 "
-"Position: (642, 478), (771, 516)  |  Status: cancer
-Position: (567, 318), (708, 417)  |  Status: cancer
+"Position: (566, 321), (707, 413)  |  Status: cancer | P_cancer = 64.62%
 "
-"Position: (565, 316), (708, 419)  |  Status: cancer
+"Position: (566, 320), (706, 413)  |  Status: cancer | P_cancer = 64.62%
 "
-"Position: (642, 479), (769, 515)  |  Status: cancer
-Position: (562, 315), (707, 420)  |  Status: cancer
+"Position: (565, 319), (706, 413)  |  Status: cancer | P_cancer = 64.62%
 "
-"Position: (564, 315), (707, 420)  |  Status: cancer
+"Position: (564, 321), (705, 413)  |  Status: cancer | P_cancer = 64.62%
 "
-"Position: (641, 479), (769, 515)  |  Status: cancer
-Position: (565, 314), (705, 420)  |  Status: cancer
+"Position: (566, 320), (704, 412)  |  Status: cancer | P_cancer = 64.62%
 "
-"Position: (641, 479), (770, 514)  |  Status: cancer
-Position: (566, 309), (705, 419)  |  Status: cancer
+"Position: (567, 322), (703, 411)  |  Status: cancer | P_cancer = 64.62%
 "
-"Position: (641, 478), (769, 514)  |  Status: cancer
-Position: (567, 312), (705, 418)  |  Status: cancer
+"Position: (565, 319), (702, 411)  |  Status: cancer | P_cancer = 64.62%
 "
-"Position: (642, 478), (768, 513)  |  Status: cancer
-Position: (569, 311), (705, 418)  |  Status: cancer
+"Position: (567, 336), (700, 410)  |  Status: cancer | P_cancer = 64.62%
+Position: (542, 278), (703, 417)  |  Status: cancer | P_cancer = 83.02%
 "
-"Position: (642, 479), (769, 514)  |  Status: cancer
-Position: (568, 314), (705, 418)  |  Status: cancer
+"Position: (568, 327), (701, 411)  |  Status: cancer | P_cancer = 83.02%
 "
-"Position: (641, 478), (768, 514)  |  Status: cancer
-Position: (568, 311), (705, 418)  |  Status: cancer
+"Position: (569, 326), (700, 410)  |  Status: cancer | P_cancer = 83.02%
 "
-"Position: (642, 479), (769, 513)  |  Status: cancer
-Position: (569, 315), (705, 417)  |  Status: cancer
+"Position: (571, 327), (699, 410)  |  Status: cancer | P_cancer = 83.02%
 "
-"Position: (641, 478), (768, 513)  |  Status: cancer
-Position: (570, 312), (705, 417)  |  Status: cancer
+"Position: (572, 328), (698, 409)  |  Status: cancer | P_cancer = 83.02%
 "
-"Position: (571, 311), (704, 416)  |  Status: cancer
+"Position: (574, 330), (697, 408)  |  Status: cancer | P_cancer = 83.02%
 "
-"Position: (571, 311), (703, 416)  |  Status: cancer
+"Position: (572, 328), (696, 407)  |  Status: cancer | P_cancer = 83.02%
 "
-"Position: (572, 312), (703, 415)  |  Status: cancer
+"Position: (542, 276), (695, 408)  |  Status: cancer | P_cancer = 83.02%
 "
-"Position: (564, 294), (704, 418)  |  Status: cancer
+"Position: (574, 329), (693, 405)  |  Status: cancer | P_cancer = 83.02%
+Position: (541, 273), (694, 405)  |  Status: cancer | P_cancer = 83.02%
 "
-"Position: (642, 478), (765, 511)  |  Status: cancer
-Position: (571, 285), (704, 416)  |  Status: cancer
+"Position: (540, 273), (692, 404)  |  Status: cancer | P_cancer = 80.9%
 "
-"Position: (642, 477), (766, 511)  |  Status: cancer
-Position: (574, 286), (704, 416)  |  Status: cancer
+"Position: (577, 331), (691, 402)  |  Status: cancer | P_cancer = 80.9%
+Position: (544, 279), (692, 403)  |  Status: cancer | P_cancer = 80.9%
 "
-"Position: (641, 477), (765, 511)  |  Status: cancer
-Position: (575, 290), (704, 415)  |  Status: cancer
+"Position: (580, 333), (691, 401)  |  Status: cancer | P_cancer = 80.9%
 "
-"Position: (576, 291), (703, 415)  |  Status: cancer
+"Position: (547, 282), (693, 402)  |  Status: cancer | P_cancer = 80.9%
 "
-"Position: (577, 292), (703, 415)  |  Status: cancer
+"Position: (550, 279), (692, 400)  |  Status: cancer | P_cancer = 80.9%
 "
-"Position: (577, 291), (703, 414)  |  Status: cancer
+"Position: (554, 280), (692, 398)  |  Status: cancer | P_cancer = 80.9%
 "
-"Position: (578, 292), (703, 414)  |  Status: cancer
+"Position: (557, 289), (692, 397)  |  Status: cancer | P_cancer = 80.9%
 "
-"Position: (574, 296), (703, 412)  |  Status: cancer
+"Position: (556, 282), (693, 396)  |  Status: cancer | P_cancer = 80.9%
 "
-"Position: (573, 282), (703, 413)  |  Status: cancer
+"Position: (561, 292), (692, 396)  |  Status: cancer | P_cancer = 80.9%
 "
-"Position: (572, 281), (703, 413)  |  Status: cancer
+"Position: (559, 281), (693, 395)  |  Status: cancer | P_cancer = 88.66%
 "
-"Position: (572, 281), (703, 413)  |  Status: cancer
+"Position: (562, 281), (693, 394)  |  Status: cancer | P_cancer = 88.66%
 "
-"Position: (572, 281), (703, 413)  |  Status: cancer
+"Position: (571, 294), (693, 393)  |  Status: cancer | P_cancer = 88.66%
 "
-"Position: (571, 280), (703, 412)  |  Status: cancer
+"Position: (571, 291), (692, 392)  |  Status: cancer | P_cancer = 88.66%
 "
-"Position: (567, 278), (704, 408)  |  Status: cancer
+"Position: (561, 279), (691, 388)  |  Status: cancer | P_cancer = 88.66%
 "
-"Position: (572, 279), (702, 398)  |  Status: cancer
+"Position: (560, 276), (688, 383)  |  Status: cancer | P_cancer = 88.66%
 "
-"Position: (570, 275), (701, 394)  |  Status: cancer
+"Position: (559, 276), (688, 382)  |  Status: cancer | P_cancer = 88.66%
 "
-"Position: (571, 277), (699, 391)  |  Status: cancer
+"Position: (559, 274), (687, 381)  |  Status: cancer | P_cancer = 88.66%
 "
-"Position: (573, 277), (699, 390)  |  Status: cancer
+"Position: (558, 274), (686, 380)  |  Status: cancer | P_cancer = 88.66%
 "
-"Position: (577, 277), (699, 391)  |  Status: cancer
+"Position: (558, 272), (683, 376)  |  Status: cancer | P_cancer = 88.66%
 "
-"Position: (578, 277), (699, 390)  |  Status: cancer
+"Position: (558, 273), (681, 375)  |  Status: cancer | P_cancer = 64.62%
 "
-"Position: (580, 282), (699, 389)  |  Status: cancer
+"Position: (558, 273), (680, 374)  |  Status: cancer | P_cancer = 64.62%
 "
-"Position: (581, 280), (699, 388)  |  Status: cancer
+"Position: (554, 278), (679, 371)  |  Status: cancer | P_cancer = 64.62%
 "
-"Position: (581, 262), (697, 363)  |  Status: cancer
+"Position: (555, 285), (675, 370)  |  Status: cancer | P_cancer = 64.62%
 "
-"Position: (582, 263), (698, 363)  |  Status: cancer
+"Position: (557, 288), (675, 369)  |  Status: cancer | P_cancer = 64.62%
 "
-"Position: (583, 264), (700, 362)  |  Status: cancer
+"Position: (556, 289), (675, 369)  |  Status: cancer | P_cancer = 64.62%
 "
-"Position: (583, 265), (701, 363)  |  Status: cancer
+"Position: (562, 287), (674, 371)  |  Status: cancer | P_cancer = 64.62%
 "
-"Position: (584, 265), (701, 362)  |  Status: cancer
+"Position: (561, 286), (675, 371)  |  Status: cancer | P_cancer = 64.62%
 "
-"Position: (584, 264), (702, 363)  |  Status: normal
+"Position: (562, 289), (675, 372)  |  Status: cancer | P_cancer = 64.62%
 "
-"Position: (584, 261), (704, 365)  |  Status: normal
+"Position: (561, 284), (676, 371)  |  Status: cancer | P_cancer = 64.62%
 "
-"Position: (585, 261), (704, 365)  |  Status: normal
+"Position: (560, 281), (677, 372)  |  Status: cancer | P_cancer = 57.24%
 "
-"Position: (586, 262), (704, 366)  |  Status: normal
+"Position: (561, 282), (679, 372)  |  Status: cancer | P_cancer = 57.24%
 "
-"Position: (584, 260), (704, 367)  |  Status: normal
+"Position: (562, 279), (680, 372)  |  Status: cancer | P_cancer = 57.24%
 "
-"Position: (582, 259), (704, 367)  |  Status: normal
+"Position: (562, 277), (681, 371)  |  Status: cancer | P_cancer = 57.24%
 "
-"Position: (583, 265), (702, 366)  |  Status: normal
+"Position: (564, 274), (682, 371)  |  Status: cancer | P_cancer = 57.24%
 "
-"Position: (582, 265), (702, 367)  |  Status: normal
+"Position: (566, 270), (690, 371)  |  Status: cancer | P_cancer = 57.24%
 "
-"Position: (581, 271), (701, 367)  |  Status: normal
+"Position: (566, 269), (690, 371)  |  Status: cancer | P_cancer = 57.24%
 "
-"Position: (582, 272), (702, 368)  |  Status: normal
+"Position: (572, 266), (691, 372)  |  Status: cancer | P_cancer = 57.24%
 "
-"Position: (584, 274), (702, 368)  |  Status: cancer
+"Position: (574, 268), (691, 372)  |  Status: cancer | P_cancer = 57.24%
 "
-"Position: (583, 271), (702, 368)  |  Status: cancer
+"Position: (575, 268), (692, 372)  |  Status: cancer | P_cancer = 57.24%
 "
-"Position: (583, 270), (702, 369)  |  Status: cancer
+"Position: (576, 269), (692, 372)  |  Status: normal | P_cancer = 15.76%
 "
-"Position: (583, 267), (702, 369)  |  Status: cancer
+"Position: (576, 268), (692, 372)  |  Status: normal | P_cancer = 15.76%
 "
-"Position: (582, 266), (702, 369)  |  Status: cancer
+"Position: (578, 269), (693, 372)  |  Status: normal | P_cancer = 15.76%
 "
-"Position: (583, 267), (701, 369)  |  Status: cancer
+"Position: (583, 273), (695, 372)  |  Status: normal | P_cancer = 15.76%
 "
-"Position: (583, 266), (702, 370)  |  Status: cancer
+"Position: (582, 272), (699, 372)  |  Status: normal | P_cancer = 15.76%
 "
-"Position: (584, 270), (700, 370)  |  Status: cancer
+"Position: (582, 273), (699, 372)  |  Status: normal | P_cancer = 15.76%
 "
-"Position: (584, 270), (700, 369)  |  Status: cancer
+"Position: (583, 273), (700, 371)  |  Status: normal | P_cancer = 15.76%
 "
-"Position: (584, 267), (700, 370)  |  Status: cancer
+"Position: (585, 274), (701, 371)  |  Status: normal | P_cancer = 15.76%
 "
-"Position: (584, 266), (699, 370)  |  Status: normal
+"Position: (584, 278), (703, 370)  |  Status: normal | P_cancer = 15.76%
 "
-"Position: (584, 265), (699, 370)  |  Status: normal
+"Position: (583, 277), (703, 370)  |  Status: normal | P_cancer = 15.76%
 "
-"Position: (585, 267), (699, 370)  |  Status: normal
+"Position: (586, 273), (703, 372)  |  Status: cancer | P_cancer = 70.68%
 "
-"Position: (585, 268), (699, 371)  |  Status: normal
+"Position: (583, 275), (705, 371)  |  Status: cancer | P_cancer = 70.68%
 "
-"Position: (584, 268), (699, 371)  |  Status: normal
+"Position: (592, 271), (702, 372)  |  Status: cancer | P_cancer = 70.68%
 "
-"Position: (585, 267), (699, 371)  |  Status: normal
+"Position: (594, 272), (702, 372)  |  Status: cancer | P_cancer = 70.68%
 "
-"Position: (584, 264), (698, 371)  |  Status: normal
+"Position: (597, 274), (705, 372)  |  Status: cancer | P_cancer = 70.68%
 "
-"Position: (584, 265), (698, 372)  |  Status: normal
+"Position: (601, 275), (706, 372)  |  Status: cancer | P_cancer = 70.68%
 "
-"Position: (583, 266), (698, 372)  |  Status: normal
+"Position: (601, 275), (706, 372)  |  Status: cancer | P_cancer = 70.68%
 "
-"Position: (581, 266), (700, 374)  |  Status: normal
+"Position: (597, 272), (709, 372)  |  Status: cancer | P_cancer = 70.68%
 "
-"Position: (582, 265), (701, 374)  |  Status: normal
+"Position: (601, 274), (706, 372)  |  Status: cancer | P_cancer = 70.68%
 "
-"Position: (580, 266), (702, 376)  |  Status: normal
+"Position: (602, 275), (706, 372)  |  Status: cancer | P_cancer = 70.68%
 "
-"Position: (578, 273), (704, 377)  |  Status: normal
+"Position: (603, 275), (706, 372)  |  Status: normal | P_cancer = 47.13%
 "
-"Position: (580, 276), (705, 379)  |  Status: normal
+"Position: (603, 274), (706, 372)  |  Status: normal | P_cancer = 47.13%
 "
-"Position: (588, 269), (703, 380)  |  Status: normal
+"Position: (603, 274), (707, 372)  |  Status: normal | P_cancer = 47.13%
 "
-"Position: (589, 268), (703, 381)  |  Status: normal
+"Position: (604, 274), (707, 372)  |  Status: normal | P_cancer = 47.13%
 "
-"Position: (579, 270), (708, 381)  |  Status: normal
+"Position: (604, 274), (708, 372)  |  Status: normal | P_cancer = 47.13%
 "
-"Position: (578, 268), (708, 382)  |  Status: normal
+"Position: (603, 274), (708, 372)  |  Status: normal | P_cancer = 47.13%
 "
-"Position: (578, 270), (707, 382)  |  Status: normal
+"Position: (604, 274), (709, 372)  |  Status: normal | P_cancer = 47.13%
 "
-"Position: (577, 271), (706, 382)  |  Status: normal
+"Position: (603, 273), (709, 371)  |  Status: normal | P_cancer = 47.13%
 "
-"Position: (576, 271), (705, 382)  |  Status: normal
+"Position: (605, 274), (714, 369)  |  Status: normal | P_cancer = 47.13%
 "
-"Position: (574, 271), (706, 383)  |  Status: normal
+"Position: (609, 276), (716, 369)  |  Status: normal | P_cancer = 47.13%
 "
-"Position: (573, 271), (707, 384)  |  Status: normal
+"Position: (609, 273), (718, 368)  |  Status: normal | P_cancer = 31.08%
 "
-"Position: (574, 265), (706, 385)  |  Status: normal
+"Position: (611, 275), (718, 368)  |  Status: normal | P_cancer = 31.08%
 "
-"Position: (573, 270), (708, 386)  |  Status: normal
+"Position: (609, 274), (718, 368)  |  Status: normal | P_cancer = 31.08%
 "
-"Position: (575, 265), (708, 387)  |  Status: normal
+"Position: (609, 275), (718, 369)  |  Status: normal | P_cancer = 31.08%
 "
-"Position: (574, 263), (709, 387)  |  Status: normal
+"Position: (610, 276), (718, 369)  |  Status: normal | P_cancer = 31.08%
 "
-"Position: (576, 265), (708, 388)  |  Status: normal
+"Position: (609, 276), (718, 369)  |  Status: normal | P_cancer = 31.08%
 "
-"Position: (566, 264), (710, 396)  |  Status: normal
+"Position: (609, 275), (718, 368)  |  Status: normal | P_cancer = 31.08%
 "
-"Position: (572, 277), (710, 402)  |  Status: normal
-"
-"Position: (572, 290), (710, 407)  |  Status: normal
-"
-"Position: (573, 294), (710, 410)  |  Status: normal
-"
-"Position: (640, 477), (775, 515)  |  Status: normal
-Position: (573, 297), (710, 414)  |  Status: normal
-"
-"Position: (569, 330), (711, 414)  |  Status: normal
-"
-"Position: (642, 477), (772, 515)  |  Status: normal
-Position: (566, 330), (712, 416)  |  Status: normal
-"
-"Position: (568, 328), (711, 417)  |  Status: normal
-"
-"Position: (581, 262), (697, 363)  |  Status: normal
-"
-"Position: (582, 263), (698, 363)  |  Status: normal
-"
-"Position: (583, 264), (700, 362)  |  Status: cancer
-"
-"Position: (583, 265), (701, 363)  |  Status: cancer
-"
-"Position: (584, 265), (701, 362)  |  Status: cancer
-"
-"Position: (584, 264), (702, 363)  |  Status: cancer
-"
-"Position: (584, 261), (704, 365)  |  Status: cancer
-"
-"Position: (585, 261), (704, 365)  |  Status: cancer
-"
-"Position: (586, 262), (704, 366)  |  Status: cancer
-"
-"Position: (584, 260), (704, 367)  |  Status: cancer
-"
-"Position: (582, 259), (704, 367)  |  Status: cancer
-"
-"Position: (583, 265), (702, 366)  |  Status: cancer
-"
-"Position: (582, 265), (702, 367)  |  Status: cancer
-"
-"Position: (581, 271), (701, 367)  |  Status: cancer
-"
-"Position: (582, 272), (702, 368)  |  Status: cancer
-"
-"Position: (584, 274), (702, 368)  |  Status: cancer
-"
-"Position: (583, 271), (702, 368)  |  Status: cancer
-"
-"Position: (583, 270), (702, 369)  |  Status: cancer
-"
-"Position: (583, 267), (702, 369)  |  Status: cancer
-"
-"Position: (582, 266), (702, 369)  |  Status: cancer
-"
-"Position: (583, 267), (701, 369)  |  Status: cancer
-"
-"Position: (583, 266), (702, 370)  |  Status: cancer
-"
-"Position: (584, 270), (700, 370)  |  Status: normal
-"
-"Position: (584, 270), (700, 369)  |  Status: normal
-"
-"Position: (584, 267), (700, 370)  |  Status: normal
-"
-"Position: (584, 266), (699, 370)  |  Status: normal
-"
-"Position: (584, 265), (699, 370)  |  Status: normal
-"
-"Position: (585, 267), (699, 370)  |  Status: normal
-"
-"Position: (585, 268), (699, 371)  |  Status: normal
-"
-"Position: (584, 268), (699, 371)  |  Status: normal
-"
-"Position: (585, 267), (699, 371)  |  Status: normal
-"
-"Position: (584, 264), (698, 371)  |  Status: normal
-"
-"Position: (584, 265), (698, 372)  |  Status: cancer
-"
-"Position: (583, 266), (698, 372)  |  Status: cancer
-"
-"Position: (581, 266), (700, 374)  |  Status: cancer
-"
-"Position: (582, 265), (701, 374)  |  Status: cancer
-"
-"Position: (580, 266), (702, 376)  |  Status: cancer
-"
-"Position: (578, 273), (704, 377)  |  Status: cancer
-"
-"Position: (580, 276), (705, 379)  |  Status: cancer
-"
-"Position: (588, 269), (703, 380)  |  Status: cancer
-"
-"Position: (589, 268), (703, 381)  |  Status: cancer
-"
-"Position: (579, 270), (708, 381)  |  Status: cancer
-"
-"Position: (578, 268), (708, 382)  |  Status: cancer
-"
-"Position: (578, 270), (707, 382)  |  Status: cancer
-"
-"Position: (577, 271), (706, 382)  |  Status: cancer
-"
-"Position: (576, 271), (705, 382)  |  Status: cancer
-"
-"Position: (574, 271), (706, 383)  |  Status: cancer
-"
-"Position: (573, 271), (707, 384)  |  Status: cancer
-"
-"Position: (574, 265), (706, 385)  |  Status: cancer
-"
-"Position: (573, 270), (708, 386)  |  Status: cancer
-"
-"Position: (575, 265), (708, 387)  |  Status: cancer
-"
-"Position: (574, 263), (709, 387)  |  Status: cancer
-"
-"Position: (576, 265), (708, 388)  |  Status: cancer
+"Position: (607, 274), (719, 368)  |  Status: normal | P_cancer = 31.08%
 "

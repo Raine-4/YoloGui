@@ -35,35 +35,9 @@ from ui.ori_ui.new_ui import Ui_MainWindow # 导入detect_ui的界面
 
 from PyQt5.QtCore import QThread, pyqtSignal
 
-class VideoTrimThread(QThread):
-    """
-    Thread class for trimming video asynchronously.
-    """
-    finished = pyqtSignal(str)  # Signal emitted when the task is finished
-    error = pyqtSignal(str)  # Signal emitted when an error occurs
-
-    def __init__(self, video_path, save_path, start_time, end_time, parent=None):
-        super(VideoTrimThread, self).__init__(parent)
-        self.video_path = video_path
-        self.save_path = save_path
-        self.start_time = start_time
-        self.end_time = end_time
-
-    def run(self):
-        try:
-            # Load video
-            clip = VideoFileClip(self.video_path)
-
-            # Trim video
-            trimmed_video = clip.subclip(self.start_time, self.end_time)
-            trimmed_video.write_videofile(self.save_path, codec="libx264", audio_codec="aac")            # Emit finished signal with the save path
-            self.finished.emit(self.save_path)
-        except Exception as e:
-            # Emit error signal with the error message
-            self.error.emit(str(e))
 
 
-def read_second_last_column(file_path):
+def read_last_two_column(file_path):
     """
     Reads the second last column from a given .csv file.
 
@@ -80,9 +54,10 @@ def read_second_last_column(file_path):
 
         # Extract the second last column
         second_last_column = df.iloc[:, -2]
+        last_column = df.iloc[:, -1]
 
         # Return the values as a list
-        return second_last_column.tolist()
+        return second_last_column.to_list(), last_column.to_list()
 
     except Exception as e:
         print(f"An error occurred: {e}")
@@ -302,7 +277,8 @@ class UI_Logic_Window(QtWidgets.QMainWindow):
                                        agnostic=self.opt.agnostic_nms)
             info_show = ""
 
-            status = read_second_last_column('predictions.csv')
+            status = read_last_two_column('predictions.csv')[0]
+            confidence = read_last_two_column('predictions.csv')[1]
 
             # Process detections
             for i, det in enumerate(pred):
@@ -311,20 +287,19 @@ class UI_Logic_Window(QtWidgets.QMainWindow):
                     det[:, :4] = scale_coords(img.shape[2:], det[:, :4], showimg.shape).round()
 
                     for *xyxy, conf, cls in reversed(det):
-                        # status = random.randint(0,1)
-                        # print("frame_idx = ", frame_idx)
                         if self.frame_idx < len(status):
                             cur_status = status[self.frame_idx]
+                            cur_confidence = confidence[self.frame_idx]
                             self.frame_idx += 1
+                            # draw box
+                            single_info = plot_one_box2(xyxy, showimg, cur_status, cur_confidence)
 
-                        # draw box
-                        single_info = plot_one_box2(xyxy, showimg, cur_status)
-
-                        c2 = (int(xyxy[2]), int(xyxy[3]))
-                        self.points.append(c2)
-                        self.status.append(cur_status)
-                        info_show += single_info + "\n"
-
+                            c2 = (int(xyxy[2]), int(xyxy[3]))
+                            self.points.append(c2)
+                            self.status.append(cur_status)
+                            info_show += single_info + "\n"
+                        else:
+                            QtWidgets.QMessageBox.information(self, "Hint", f"Detection Over.")
                     # Draw all previous points
                     for ind in range(len(self.points)):
                         point = self.points[ind]
@@ -440,7 +415,7 @@ class UI_Logic_Window(QtWidgets.QMainWindow):
             QtWidgets.QMessageBox.information(self, u"Trim Successfully", f"Video trimmed successfully!\n Saved to: {save_path}", buttons=QtWidgets.QMessageBox.Ok,
                                               defaultButton=QtWidgets.QMessageBox.Ok)
 
-    def trim_video_noProgressBar(self, video_path, save_path, start_time, end_time):
+    def trim_video(self, video_path, save_path, start_time, end_time):
         # load video
         clip = VideoFileClip(video_path)
 
@@ -450,54 +425,6 @@ class UI_Logic_Window(QtWidgets.QMainWindow):
 
         # save trimmed video
         trimmed_video.write_videofile(save_path, codec="libx264", audio_codec="aac")
-
-    def trim_video(self, video_path, save_path, start_time, end_time):
-        """
-        Trim video with a loading spinner using a background thread.
-        """
-        # Create a loading spinner
-        loading_spinner = QtWidgets.QLabel(self)
-        loading_spinner.setAlignment(QtCore.Qt.AlignCenter)
-        movie = QtGui.QMovie("loading_spinner.gif")
-        loading_spinner.setMovie(movie)
-        movie.start()
-
-        # Show the spinner as a modal dialog
-        self.spinner_dialog = QDialog(self)
-        self.spinner_dialog.setWindowTitle("Processing")
-        self.spinner_dialog.setWindowModality(QtCore.Qt.ApplicationModal)
-        layout = QVBoxLayout()
-        layout.addWidget(loading_spinner)
-        self.spinner_dialog.setLayout(layout)
-        # self.spinner_dialog.resize(100, 75)
-        self.spinner_dialog.show()
-
-        # Create and start the background thread
-        self.trim_thread = VideoTrimThread(video_path, save_path, start_time, end_time)
-        self.trim_thread.finished.connect(self.on_trim_finished)
-        self.trim_thread.error.connect(self.on_trim_error)
-        self.trim_thread.start()
-
-    def on_trim_finished(self, save_path):
-        """
-        Slot called when video trimming is finished successfully.
-        """
-        # Close spinner dialog
-        if self.spinner_dialog:
-            self.spinner_dialog.close()
-
-        self.spinner_dialog.close()
-        QtWidgets.QMessageBox.information(self, "Success", f"Video trimmed successfully!\n> Saved to: {save_path}")
-
-    def on_trim_error(self, error_message):
-        """
-        Slot called when an error occurs during video trimming.
-        """
-        # Close spinner dialog
-        if self.spinner_dialog:
-            self.spinner_dialog.close()
-        self.spinner_dialog.close()
-        QtWidgets.QMessageBox.critical(self, "Error", f"An error occurred: {error_message}")
 
 
     def convert_to_seconds(self, time_str):

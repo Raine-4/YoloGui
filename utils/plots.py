@@ -82,14 +82,14 @@ def plot_one_box(x, img, color=None, label=None, line_thickness=3):
 #     single_info = "Position: (%d, %d), (%d, %d), Obj and Confidence: %s" % (c1[0], c1[1], c2[0], c2[1], label)
 #     return single_info
 
-def plot_one_box2(x, img, status, line_thickness=2):
-
+def plot_one_box2(x, img, status, confidence=0.0):
+    line_thickness = 2
     # Define colors and labels based on status
     if status == 0:
-        color = [0, 255, 0]  # Green for normal
+        color = [0, 255, 0]  # Green box for normal
         label = "normal"
     else:
-        color = [0, 0, 255]  # Red for cancer
+        color = [0, 0, 255]  # Red box for cancer
         label = "cancer"
 
     # Plots one bounding box on image img
@@ -106,7 +106,7 @@ def plot_one_box2(x, img, status, line_thickness=2):
                 lineType=cv2.LINE_AA)  # Label text
 
     # Return information string
-    single_info = f"Position: ({c1[0]}, {c1[1]}), ({c2[0]}, {c2[1]})  |  Status: {label}"
+    single_info = f"Position: ({c1[0]}, {c1[1]}), ({c2[0]}, {c2[1]})  |  Status: {label} | P_cancer = {round(confidence*100,2)}%"
     return single_info
 
 def plot_one_box_PIL(box, img, color=None, label=None, line_thickness=None):
